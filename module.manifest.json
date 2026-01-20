@@ -1,0 +1,14 @@
+{
+  "moduleId": "webwaka_suite_payments_gateway_ui",
+  "class": "suite",
+  "suiteType": "ui",
+  "version": "0.1.0",
+  "capabilities": [],
+  "dependencies": [],
+  "metadata": {
+    "repository": "https://github.com/changerplanet/webwaka-suite-payments-gateway-ui",
+    "suite": "payments-gateway",
+    "created": "2026-01-20",
+    "status": "substrate"
+  }
+}
